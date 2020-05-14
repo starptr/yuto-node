@@ -1,0 +1,14 @@
+{
+	"name": "yuto",
+	"version": "0.1.0",
+	"description": "Yuto",
+	"main": "./lib/index.js",
+	"bin": {
+		"yuto": "./bin/index.js"
+	},
+	"author": {
+		"name": "Yuto Nishida",
+		"email": "yuyu.nishida@gmail.com"
+	},
+	"license": "GPL-3.0-or-later"
+}
